@@ -1,0 +1,11 @@
+{
+  "name": "buona-pizza",
+  "version": "1.0.0",
+  "description": "Este proyecto buona pizza va a permitir una experiencia personalizada al ordenar su pizza mostrando en tiempo real los costos adicionales y opciones de propina, se realizó con html, css y javascript :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karina Castillo Ch.",
+  "license": "ISC"
+}
